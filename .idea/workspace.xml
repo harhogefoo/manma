@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4887fa1a-a837-4fb2-a47c-072526d4eca4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/remindPayment.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/notifyToSlack.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -97,13 +97,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="remindPayment.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="remindPayment.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/remindPayment.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="707">
               <caret line="117" column="4" lean-forward="false" selection-start-line="117" selection-start-column="4" selection-end-line="117" selection-end-column="4" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="notifyToSlack.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/notifyToSlack.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="525">
+              <caret line="94" column="68" lean-forward="false" selection-start-line="94" selection-start-column="68" selection-end-line="94" selection-end-column="68" />
+              <folding>
+                <element signature="n#!!doc;n#notifyToSlack#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -150,6 +162,7 @@
         <option value="$PROJECT_DIR$/20170901_submitForm.js" />
         <option value="$PROJECT_DIR$/20170810_self_introduction.js" />
         <option value="$PROJECT_DIR$/remindPayment.js" />
+        <option value="$PROJECT_DIR$/notifyToSlack.js" />
       </list>
     </option>
   </component>
@@ -290,12 +303,12 @@
       <workItem from="1501708595416" duration="1291000" />
       <workItem from="1502291434451" duration="2235000" />
       <workItem from="1504102584824" duration="4653000" />
-      <workItem from="1506818296457" duration="512000" />
+      <workItem from="1506818296457" duration="1605000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20422000" />
+    <option name="totallyTimeSpent" value="21515000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="1022" extended-state="6" />
@@ -598,6 +611,16 @@
           <caret line="117" column="4" lean-forward="false" selection-start-line="117" selection-start-column="4" selection-end-line="117" selection-end-column="4" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notifyToSlack.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="94" column="68" lean-forward="false" selection-start-line="94" selection-start-column="68" selection-end-line="94" selection-end-column="68" />
+          <folding>
+            <element signature="n#!!doc;n#notifyToSlack#0" expanded="false" />
           </folding>
         </state>
       </provider>
